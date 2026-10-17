@@ -1,0 +1,42 @@
+# NetBeans private and generated files
+/nbproject/private/
+/build/
+/dist/
+
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+*.jmod
+hs_err_pid*
+replay_pid*
+
+# Test and coverage output
+/test-output/
+/coverage/
+*.exec
+
+# Runtime files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# IDE settings
+/.idea/
+/.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
